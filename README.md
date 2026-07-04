@@ -1,8 +1,5 @@
-<table>
-<tr>
-<td width="100%">
 
-## 💫 About Me
+##  About Me
 
 I'm an aspiring **Software Developer** passionate about Full-Stack Development, AI/ML, and Generative AI.
 
@@ -12,9 +9,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 - 💡 Solving real-world problems through technology
 - 📚 Always learning something new
 
-</td>
-</tr>
-</table>
+
 
 
 
