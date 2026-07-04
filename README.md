@@ -18,7 +18,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 
 
-<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/80c6cbf1-c21f-4d3d-a332-a121d92975fe" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/80c6cbf1-c21f-4d3d-a332-a121d92975fe" />
 
 
 
