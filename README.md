@@ -13,15 +13,15 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 - 📚 Always learning something new
 
 </td>
+</tr>
+</table>
 
-<td>
+
 
 <img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/80c6cbf1-c21f-4d3d-a332-a121d92975fe" />
 
 
-</td>
-</tr>
-</table>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devijetta/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jettadevi289@gmail.com) 
