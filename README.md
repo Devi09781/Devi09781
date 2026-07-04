@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="60%">
+<td width="100%">
 
 ## 💫 About Me
 
@@ -14,9 +14,10 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 </td>
 
-<td width="40%">
+<td>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/80c6cbf1-c21f-4d3d-a332-a121d92975fe" />
+
 
 </td>
 </tr>
