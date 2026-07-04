@@ -1,5 +1,27 @@
-# 💫 About Me:
-💻 Full-Stack Developer | 🤖 AI & ML Enthusiast | 🚀 MERN Stack & Django Developer | 🧠 GenAI & Prompt Engineering | 🐍 Python | 🍃 MongoDB | 🗄️ SQL
+<table>
+<tr>
+<td width="60%">
+
+## 💫 About Me
+
+I'm an aspiring **Software Developer** passionate about Full-Stack Development, AI/ML, and Generative AI.
+
+- 🚀 Building scalable web applications
+- 🤖 Exploring Machine Learning & GenAI
+- 🌱 Learning React, Django & Cloud
+- 💡 Solving real-world problems through technology
+- 📚 Always learning something new
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devijetta/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jettadevi289@gmail.com) 
 
