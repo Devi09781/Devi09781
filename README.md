@@ -72,7 +72,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Devi09781&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
+### Daily Inspiration
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
