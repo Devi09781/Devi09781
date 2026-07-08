@@ -1,7 +1,7 @@
 
 ##  About Me
 
-I'm an aspiring **Software Developer** passionate about Full-Stack Development, AI/ML, and Generative AI.
+I'm an aspiring **Software Developer** passionate about Full-Stack Development, AI/ML, Prompt Engineering and Generative AI .
 
 - 🚀 Building scalable web applications
 - 🤖 Exploring Machine Learning & GenAI
