@@ -4,10 +4,10 @@
 I'm an aspiring **Software Developer** passionate about Full-Stack Development, AI/ML, Prompt Engineering and Generative AI .
 
 -  Building scalable web applications
-- 🤖 Exploring Machine Learning & GenAI
-- 🌱 Learning React, Django & Cloud
-- 💡 Solving real-world problems through technology
-- 📚 Always learning something new
+-  Exploring Machine Learning & GenAI
+-  Learning React, Django & Cloud
+-  Solving real-world problems through technology
+-  Always learning something new
 - Passionate about building career in IT Industry
 
 
