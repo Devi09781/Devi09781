@@ -8,7 +8,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 - 🌱 Learning React, Django & Cloud
 - 💡 Solving real-world problems through technology
 - 📚 Always learning something new
-
+- Passionate 
 
 
 
