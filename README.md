@@ -1,5 +1,17 @@
 
-##  About Me
+                                                                   ##  About Me
+<div align="center">
+  
+# Hi there! 👋 I'm  Devi
+
+</div>
+
+<div align="center">
+  
+Aspiring Software Developer | MERN Stack Developer| Machine Learning Enthusiast | AI Enthusiastic
+  
+</div>
+                                                                   
 
 I'm an aspiring **Software Developer** passionate about Full-Stack Development, AI/ML, Prompt Engineering and Generative AI .
 
