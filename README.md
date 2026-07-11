@@ -88,3 +88,118 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 [![](https://komarev.com/ghpvc/?username=Devi09781&icon=1&color=0)](https://visitcount.itsvg.in)
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Devi%20Jetta&fontSize=50&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Python+%7C+React+%7C+Next.js;Always+Learning"/>
+</p>
+
+## About Me
+- 🎓 B.Tech CSE (AI & ML)
+- 💻 AI, ML, Full Stack Development
+- ☁️ Azure AI Fundamentals, AWS Cloud Practitioner
+- 🌱 Currently learning GenAI, Cloud & System Design
+
+---
+
+## Tech Stack
+
+**Languages:** Python, Java, JavaScript, TypeScript, SQL
+
+**Frontend:** HTML, CSS, Tailwind CSS, React, Next.js
+
+**Backend:** Node.js, Express.js, Django
+
+**Databases:** MongoDB, PostgreSQL, Supabase
+
+**AI/ML:** Scikit-learn, TensorFlow, Keras, NLTK, Pandas, NumPy
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Machine Learning | Advanced | Classification, Regression |
+| NLP | Advanced | Fake News Detection, Sentiment Analysis |
+| Deep Learning | Intermediate | TensorFlow/Keras |
+| Generative AI | Intermediate | LangChain, Llama, ChromaDB |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>Cold Email Generator</b></summary>
+
+AI-powered email generator using LangChain, Llama, ChromaDB and Streamlit.
+
+</details>
+
+<details>
+<summary><b>Fake News Detection</b></summary>
+
+ML model using TF-IDF and Logistic Regression.
+
+</details>
+
+<details>
+<summary><b>Expense Tracker (MERN)</b></summary>
+
+Expense management application with authentication.
+
+</details>
+
+---
+
+## Certifications
+- Microsoft Azure AI Fundamentals
+- AWS Cloud Practitioner
+- Cisco Python Essentials
+- Oracle SQL
+- NPTEL
+- Qualcomm AI Upskilling
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Generative AI
+  - Cloud Computing
+building:
+  - AI Applications
+exploring:
+  - System Design
+open_to:
+  - Internships
+  - Full-time Opportunities
+```
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- Portfolio: https://YOUR_PORTFOLIO
+- Email: YOUR_EMAIL
+
+<p align="center">
+<i>"Build. Learn. Share. Repeat."</i>
+</p>
+
+
