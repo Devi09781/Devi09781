@@ -902,13 +902,12 @@ October 2025 – November 2025
 
 </div>
 
----
 
 <div align="center">
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Devi09781&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -918,7 +917,7 @@ October 2025 – November 2025
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Devi09781&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -928,7 +927,7 @@ October 2025 – November 2025
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devi09781&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
