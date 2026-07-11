@@ -11,7 +11,6 @@ Aspiring Software Developer | MERN Stack Developer| Machine Learning Enthusiast 
   
 </div>
                                                                    
-
 I'm an aspiring **Software Developer** passionate about Full-Stack Development, AI/ML, Prompt Engineering and Generative AI .
 
 -  Building scalable web applications
