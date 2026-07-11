@@ -205,3 +205,645 @@ open_to:
 </p>
 
 
+
+
+<!-- ====================================================== -->
+<!--              PREMIUM GITHUB PROFILE README             -->
+<!--                     PART 1                             -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,50:6A5ACD,100:8A2BE2&text=Devi%20Jetta&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 👋 Hello, I'm Devi Jetta
+
+### 🚀 AI & Machine Learning Engineer | Full Stack Developer | Cloud Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;Python+Developer;React+%7C+Next.js+Developer;Cloud+Computing+Enthusiast;Always+Learning+New+Technologies;Open+Source+Learner;Future+Software+Engineer"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet)
+
+![](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge)
+
+![](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge)
+
+</div>
+
+---
+
+# 🌟 About Me
+
+```yaml
+Name: Devi Jetta
+
+Education:
+   B.Tech - Computer Science Engineering
+   Specialization: Artificial Intelligence & Machine Learning
+
+Current Focus:
+   - Artificial Intelligence
+   - Machine Learning
+   - Full Stack Development
+   - Cloud Computing
+   - Generative AI
+
+Currently Learning:
+   - LangChain
+   - LLM Applications
+   - System Design
+   - AWS Cloud
+   - Advanced React
+
+Career Goal:
+   Become an AI Engineer capable of building
+   scalable intelligent applications.
+
+Open To:
+   - Software Engineering Roles
+   - AI/ML Roles
+   - Full Stack Development Roles
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=typescript"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+</p>
+
+---
+
+## ⚙ Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+</p>
+
+---
+
+## 🧠 Artificial Intelligence & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+
+</p>
+
+### Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- NLTK
+- Scikit-Learn
+- TensorFlow
+- Keras
+- LangChain
+- ChromaDB
+- Groq API
+- Hugging Face
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=supabase"/>
+
+</p>
+
+---
+
+## ☁ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=azure"/>
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
+
+<img src="https://skillicons.dev/icons?i=netlify"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+</p>
+
+---
+
+# 📊 AI & ML Expertise
+
+| Domain | Skills | Level |
+|---------|--------|--------|
+| Machine Learning | Classification, Regression, Clustering | ⭐⭐⭐⭐☆ |
+| Deep Learning | ANN, CNN, TensorFlow, Keras | ⭐⭐⭐⭐☆ |
+| NLP | Fake News Detection, Sentiment Analysis | ⭐⭐⭐⭐⭐ |
+| Generative AI | LangChain, LLMs, Prompt Engineering | ⭐⭐⭐⭐☆ |
+| Data Analysis | Pandas, NumPy, Visualization | ⭐⭐⭐⭐☆ |
+| Full Stack AI Apps | React + Django + ML | ⭐⭐⭐⭐☆ |
+
+---
+
+# 🛠 Development Environment
+
+| Category | Tools |
+|-----------|-------|
+| IDE | VS Code, Jupyter Notebook |
+| Version Control | Git, GitHub |
+| API Testing | Postman |
+| Deployment | Vercel, Render |
+| Database | MongoDB Atlas, PostgreSQL, Supabase |
+| Design | Figma, Canva |
+
+---
+
+# ⚡ Fun Facts
+
+- 🤖 Passionate about Artificial Intelligence
+- 🌱 Love building real-world projects
+- ☁ Interested in Cloud Computing
+- 📚 Continuous learner
+- 💡 Enjoy solving coding challenges
+- 🚀 Goal: Become a top AI Engineer
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
+
+<!-- ====================================================== -->
+<!--              PREMIUM GITHUB PROFILE README             -->
+<!--                     PART 2                             -->
+<!-- ====================================================== -->
+
+# 🚀 Featured Projects
+
+<p align="center">
+<i>Some of my favorite AI, Machine Learning, and Full Stack projects.</i>
+</p>
+
+---
+
+<details open>
+<summary><h2>🤖 AI Cold Email Generator</h2></summary>
+
+### 📌 Overview
+
+An intelligent application that generates personalized cold emails using Large Language Models.
+
+### ✨ Features
+
+- 🤖 AI Generated Emails
+- ⚡ LangChain Integration
+- 🧠 Llama 3
+- 📚 ChromaDB Vector Database
+- 🎯 Prompt Engineering
+- 💻 Streamlit Interface
+
+### 🛠 Tech Stack
+
+```
+Python
+LangChain
+Llama 3
+ChromaDB
+Streamlit
+Groq API
+```
+
+### Skills Gained
+
+- Prompt Engineering
+- Retrieval Augmented Generation (RAG)
+- Vector Databases
+- LLM Application Development
+
+</details>
+
+---
+
+<details>
+<summary><h2>📰 Fake News Detection System</h2></summary>
+
+### 📌 Overview
+
+Machine Learning model that predicts whether a news article is fake or genuine.
+
+### Features
+
+- News Classification
+- Text Cleaning
+- NLP Pipeline
+- TF-IDF Vectorization
+- Logistic Regression
+
+### Technologies
+
+```
+Python
+Pandas
+Scikit-Learn
+NLTK
+TF-IDF
+Machine Learning
+```
+
+### Machine Learning Pipeline
+
+```
+Dataset
+↓
+
+Cleaning
+
+↓
+
+Tokenization
+
+↓
+
+Stopword Removal
+
+↓
+
+TF-IDF
+
+↓
+
+Model Training
+
+↓
+
+Prediction
+```
+
+### Accuracy
+
+⭐ High Accuracy using Logistic Regression
+
+</details>
+
+---
+
+<details>
+<summary><h2>💰 Expense Tracker (MERN)</h2></summary>
+
+### Features
+
+- Authentication
+- Dashboard
+- Income Tracking
+- Expense Tracking
+- Monthly Reports
+- Charts
+- CRUD Operations
+
+### Tech Stack
+
+```
+MongoDB
+Express
+React
+Node.js
+JWT
+```
+
+### Skills Learned
+
+- MERN Stack
+- REST APIs
+- Authentication
+- Database Design
+
+</details>
+
+---
+
+<details>
+<summary><h2>📚 Learning Dashboard</h2></summary>
+
+### Features
+
+- Student Dashboard
+- Progress Tracking
+- Responsive UI
+- Authentication
+- Modern Components
+- Interactive Charts
+
+### Tech Stack
+
+```
+Next.js
+
+Tailwind CSS
+
+Supabase
+
+Framer Motion
+
+TypeScript
+```
+
+</details>
+
+---
+
+<details>
+<summary><h2>🌦 Weather Application</h2></summary>
+
+### Features
+
+- Live Weather
+- Search City
+- Forecast
+- Beautiful UI
+- Responsive Design
+
+### Tech Stack
+
+```
+React
+
+TypeScript
+
+Weather API
+
+Supabase
+
+Deno
+```
+
+</details>
+
+---
+
+<details>
+<summary><h2>🏫 Student Management System</h2></summary>
+
+### Features
+
+- Student Registration
+- Attendance
+- CRUD Operations
+- Admin Dashboard
+- Database Management
+
+### Tech Stack
+
+```
+Python
+
+Django
+
+SQLite
+
+HTML
+
+CSS
+```
+
+</details>
+
+---
+
+<details>
+<summary><h2>😊 Hotel Review Sentiment Analysis</h2></summary>
+
+### Features
+
+- Review Classification
+- Positive/Negative Prediction
+- NLP
+- Text Processing
+- Data Visualization
+
+### Technologies
+
+```
+Python
+
+NLTK
+
+Scikit-Learn
+
+Pandas
+
+Matplotlib
+```
+
+</details>
+
+---
+
+<details>
+<summary><h2>📝 Smart Task Prioritizer (AI)</h2></summary>
+
+### Features
+
+- AI Task Ranking
+- Priority Prediction
+- Productivity Dashboard
+- Deadline Tracking
+- Smart Recommendations
+
+### Technologies
+
+```
+Python
+
+Machine Learning
+
+Pandas
+
+Scikit-Learn
+```
+
+</details>
+
+---
+
+# 💼 Internship Experience
+
+## 🏢 Brainwave Matrix Solutions
+
+### AI Intern
+
+📅 **Duration**
+
+October 2025 – November 2025
+
+### Responsibilities
+
+- Built Machine Learning models
+- Worked on NLP projects
+- Performed Data Cleaning
+- Model Evaluation
+- Feature Engineering
+- Python Development
+
+### Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- NLTK
+
+---
+
+# 📈 Technical Skills Acquired
+
+| Category | Skills |
+|-----------|--------|
+| Programming | Python, Java, JavaScript, TypeScript |
+| Web Development | React, Next.js, Django, Node.js |
+| AI & ML | TensorFlow, Keras, Scikit-Learn |
+| NLP | NLTK, TF-IDF, Sentiment Analysis |
+| Databases | MongoDB, PostgreSQL, Supabase |
+| Cloud | AWS, Azure |
+| Version Control | Git, GitHub |
+
+---
+
+# 🏆 Major Achievements
+
+- ✅ Built Multiple AI Projects
+- ✅ Developed Full Stack Applications
+- ✅ Completed AI Internship
+- ✅ Earned Multiple Cloud Certifications
+- ✅ Practicing Data Structures & Algorithms
+- ✅ Exploring Generative AI & LLMs
+- ✅ Continuous Open Source Learner
+
+---
+
+# 🎯 Current Goals
+
+```text
+✔ Master Data Structures & Algorithms
+
+✔ Become an Expert Full Stack Developer
+
+✔ Learn Advanced AI
+
+✔ Build Production-Level AI Applications
+
+✔ Contribute to Open Source
+
+✔ Secure a Software Engineer / AI Engineer Role
+
+✔ Continue Learning Every Day
+```
+
+---
+
+<div align="center">
+
+## 🚀 "Projects are the strongest proof of your skills."
+
+</div>
+
+
+
+
