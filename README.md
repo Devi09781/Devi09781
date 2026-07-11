@@ -170,7 +170,7 @@ Expense management application with authentication.
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Devi09781&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Devi09781/&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Devi09781&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
