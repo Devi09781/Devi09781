@@ -1,5 +1,4 @@
-
-                                                                   ##  About Me
+##  About Me
 <div align="center">
   
 # Hi there! 👋 I'm  Devi
