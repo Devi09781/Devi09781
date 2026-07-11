@@ -844,6 +844,451 @@ October 2025 – November 2025
 
 </div>
 
+<!-- ====================================================== -->
+<!--              PREMIUM GITHUB PROFILE README             -->
+<!--                     PART 3                             -->
+<!-- ====================================================== -->
+
+# 🏆 Certifications
+
+<div align="center">
+
+| Certification | Organization | Status |
+|---------------|--------------|--------|
+| ☁️ Microsoft Azure AI Fundamentals | Microsoft | ✅ Completed |
+| ☁️ AWS Cloud Practitioner | Amazon Web Services | ✅ Completed |
+| 🐍 Python Essentials | Cisco Networking Academy | ✅ Completed |
+| 🗄 Oracle SQL | Oracle | ✅ Completed |
+| 🤖 AI Upskilling Program | Qualcomm | ✅ Completed |
+| 💻 Responsive Web Design | freeCodeCamp | ✅ Completed |
+| 🎯 Prompt Engineering | Simplilearn | ✅ Completed |
+| 🌐 Web Design | Udemy | ✅ Completed |
+| 📡 API Fundamentals | Postman | ✅ Completed |
+| 🎓 Tata GenAI Data Analytics Simulation | Forage | ✅ Completed |
+
+</div>
+
+---
+
+# 📜 Professional Highlights
+
+```text
+🎓 B.Tech - Computer Science Engineering (AI & ML)
+
+💻 Full Stack Developer
+
+🤖 AI & Machine Learning Enthusiast
+
+☁️ Cloud Computing Learner
+
+🚀 Generative AI Explorer
+
+📚 Continuous Learner
+
+🌟 Passionate about building intelligent applications
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+## GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+</div>
+
+---
+
+# 📅 Current Learning Roadmap
+
+```yaml
+2026 Goals
+
+✔ Advanced Data Structures
+
+✔ System Design
+
+✔ AWS Cloud
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ Generative AI
+
+✔ LangGraph
+
+✔ Agentic AI
+
+✔ MLOps
+
+✔ Open Source Contributions
+```
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Create a GitHub Action to generate the snake animation**, then use:
+
+```markdown
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+```
+
+---
+
+# 💡 Quote of the Day
+
+<div align="center">
+
+> **"Success is built one commit at a time."**
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:4B0082&height=150&section=footer"/>
+
+</div>
+
+
+<!-- ====================================================== -->
+<!--              PREMIUM GITHUB PROFILE README             -->
+<!--                     PART 4                             -->
+<!-- ====================================================== -->
+
+# 📈 GitHub Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/8A2BE2/YOUR_GITHUB_USERNAME" alt="GitHub Contribution Chart"/>
+
+</div>
+
+---
+
+# 🚀 Development Workflow
+
+```text
+        💡 Idea
+          │
+          ▼
+      📋 Planning
+          │
+          ▼
+      🎨 Designing
+          │
+          ▼
+     💻 Development
+          │
+          ▼
+     🧪 Testing
+          │
+          ▼
+      🚀 Deployment
+          │
+          ▼
+     📊 Monitoring
+          │
+          ▼
+     🔄 Continuous Improvement
+```
+
+---
+
+# 🛠 My Development Philosophy
+
+> **Write clean code.**
+
+> **Build useful products.**
+
+> **Learn continuously.**
+
+> **Never stop improving.**
+
+> **Consistency beats motivation.**
+
+---
+
+# 📚 Currently Exploring
+
+<div align="center">
+
+| AI | Full Stack | Cloud |
+|:--:|:----------:|:-----:|
+| 🤖 LangChain | ⚛️ Next.js | ☁ AWS |
+| 🧠 LLMs | 🔥 React | ☁ Azure |
+| 🤖 RAG | 🌐 Node.js | 🚀 Vercel |
+| 🤖 AI Agents | 📡 APIs | 🐳 Docker (Learning) |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Secure a Software Engineer role
+- ✅ Become an AI Engineer
+- ✅ Master Data Structures & Algorithms
+- ✅ Learn System Design
+- ✅ Build 20+ Production Projects
+- ✅ Contribute to Open Source
+- ✅ Reach 500+ GitHub Contributions
+- ✅ Earn More Cloud Certifications
+- ✅ Publish Technical Blogs
+- ✅ Help the Developer Community
+
+---
+
+# 🌟 Featured Skills
+
+<div align="center">
+
+| Category | Skills |
+|----------|--------|
+| 🤖 Artificial Intelligence | Machine Learning, NLP, LLMs |
+| 💻 Programming | Python, Java, JavaScript, TypeScript |
+| 🌐 Frontend | React, Next.js, Tailwind CSS |
+| ⚙ Backend | Node.js, Express.js, Django |
+| 🗄 Databases | MongoDB, PostgreSQL, Supabase |
+| ☁ Cloud | Azure, AWS |
+| 🔧 Tools | Git, GitHub, VS Code, Postman |
+
+</div>
+
+---
+
+# 📌 Developer Quote
+
+<div align="center">
+
+### "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+</div>
+
+---
+
+# 💼 Open for Opportunities
+
+```yaml
+Open To:
+  ✔ Software Engineer
+  ✔ AI Engineer
+  ✔ Machine Learning Engineer
+  ✔ Full Stack Developer
+  ✔ Backend Developer
+  ✔ Frontend Developer
+  ✔ Internship Opportunities
+```
+
+---
+
+# 🤝 Let's Collaborate
+
+I enjoy collaborating on:
+
+- 🤖 Artificial Intelligence Projects
+- 📊 Machine Learning Applications
+- 🌐 Full Stack Web Applications
+- ☁ Cloud Projects
+- 📱 Open Source Contributions
+
+Feel free to connect with me!
+
+---
+
+# 💬 Ask Me About
+
+```python
+topics = [
+    "Python",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "NLP",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Django",
+    "MongoDB",
+    "SQL",
+    "Supabase",
+    "GitHub",
+    "Cloud Computing",
+]
+```
+
+---
+
+# 📧 Contact
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# ❤️ Support My Work
+
+If you like my projects,
+
+⭐ Star my repositories
+
+🍴 Fork them
+
+🛠 Give feedback
+
+🤝 Connect with me
+
+---
+
+# 📊 Profile Checklist
+
+```text
+✅ AI Projects
+
+✅ Full Stack Projects
+
+✅ Machine Learning Projects
+
+✅ Internship Experience
+
+✅ Cloud Certifications
+
+✅ GitHub Portfolio
+
+✅ Continuous Learning
+
+✅ Team Collaboration
+
+✅ Problem Solving
+
+✅ Passion for Technology
+```
+
+---
+
+<div align="center">
+
+## 🌟 Thanks for Visiting My Profile! 🌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Amazing+Things+Together!;Keep+Learning+Keep+Growing!"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:4B0082,50:6A5ACD,100:8A2BE2"/>
+
+</div>
 
 
 
