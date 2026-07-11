@@ -1015,7 +1015,7 @@ October 2025 – November 2025
 
 ```markdown
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devi09781/Devi09781/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Devi09781/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 ```
 
