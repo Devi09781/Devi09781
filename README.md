@@ -169,12 +169,12 @@ Expense management application with authentication.
 ## GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Devi09781/&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Devi09781&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Devi09781/&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=https://github.com/Devi09781/&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=https://github.com/Devi09781&theme=tokyonight"/>
 </p>
 
 ---
