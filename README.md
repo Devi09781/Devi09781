@@ -1191,29 +1191,7 @@ If you like my projects,
 
 ---
 
-# 📊 Profile Checklist
 
-```text
-✅ AI Projects
-
-✅ Full Stack Projects
-
-✅ Machine Learning Projects
-
-✅ Internship Experience
-
-✅ Cloud Certifications
-
-✅ GitHub Portfolio
-
-✅ Continuous Learning
-
-✅ Team Collaboration
-
-✅ Problem Solving
-
-✅ Passion for Technology
-```
 
 ---
 
