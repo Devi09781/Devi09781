@@ -452,18 +452,7 @@ Open To:
 | Database | MongoDB Atlas, PostgreSQL, Supabase |
 | Design | Figma, Canva |
 
----
 
-# ⚡ Fun Facts
-
-- 🤖 Passionate about Artificial Intelligence
-- 🌱 Love building real-world projects
-- ☁ Interested in Cloud Computing
-- 📚 Continuous learner
-- 💡 Enjoy solving coding challenges
-- 🚀 Goal: Become a top AI Engineer
-
----
 
 <div align="center">
 
