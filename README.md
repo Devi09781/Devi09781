@@ -454,16 +454,6 @@ Open To:
 
 
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
-
-<!-- ====================================================== -->
-<!--              PREMIUM GITHUB PROFILE README             -->
-<!--                     PART 2                             -->
-<!-- ====================================================== -->
 
 # 🚀 Featured Projects
 
