@@ -1117,41 +1117,6 @@ Open To:
 
 ---
 
-# 🤝 Let's Collaborate
-
-I enjoy collaborating on:
-
-- 🤖 Artificial Intelligence Projects
-- 📊 Machine Learning Applications
-- 🌐 Full Stack Web Applications
-- ☁ Cloud Projects
-- 📱 Open Source Contributions
-
-Feel free to connect with me!
-
----
-
-# 💬 Ask Me About
-
-```python
-topics = [
-    "Python",
-    "Machine Learning",
-    "Artificial Intelligence",
-    "NLP",
-    "React",
-    "Next.js",
-    "Node.js",
-    "Django",
-    "MongoDB",
-    "SQL",
-    "Supabase",
-    "GitHub",
-    "Cloud Computing",
-]
-```
-
----
 
 # 📧 Contact
 
@@ -1187,13 +1152,6 @@ If you like my projects,
 
 🛠 Give feedback
 
-🤝 Connect with me
-
----
-
-
-
----
 
 <div align="center">
 
