@@ -131,28 +131,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 ---
 
-## Featured Projects
 
-<details>
-<summary><b>Cold Email Generator</b></summary>
-
-AI-powered email generator using LangChain, Llama, ChromaDB and Streamlit.
-
-</details>
-
-<details>
-<summary><b>Fake News Detection</b></summary>
-
-ML model using TF-IDF and Logistic Regression.
-
-</details>
-
-<details>
-<summary><b>Expense Tracker (MERN)</b></summary>
-
-Expense management application with authentication.
-
-</details>
 
 ---
 
