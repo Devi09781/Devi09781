@@ -779,16 +779,6 @@ October 2025 – November 2025
 
 ---
 
-<div align="center">
-
-## 🚀 "Projects are the strongest proof of your skills."
-
-</div>
-
-<!-- ====================================================== -->
-<!--              PREMIUM GITHUB PROFILE README             -->
-<!--                     PART 3                             -->
-<!-- ====================================================== -->
 
 # 🏆 Certifications
 
@@ -854,13 +844,6 @@ October 2025 – November 2025
 
 ---
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Devi09781&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
 
 ---
 
@@ -882,16 +865,8 @@ October 2025 – November 2025
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
 <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
 </a>
 
 </div>
@@ -903,15 +878,6 @@ October 2025 – November 2025
 ```yaml
 2026 Goals
 
-✔ Advanced Data Structures
-
-✔ System Design
-
-✔ AWS Cloud
-
-✔ Docker
-
-✔ Kubernetes
 
 ✔ Generative AI
 
@@ -924,46 +890,6 @@ October 2025 – November 2025
 ✔ Open Source Contributions
 ```
 
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Create a GitHub Action to generate the snake animation**, then use:
-
-```markdown
-
-  
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/Devi09781/Devi09781/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-```
-
----
 
 # 💡 Quote of the Day
 
@@ -1115,16 +1041,9 @@ Open To:
   ✔ Internship Opportunities
 ```
 
----
-
-
-# 📧 Contact
+# 📬 Let's Connect
 
 <div align="center">
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -1134,13 +1053,17 @@ Open To:
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
-
 ---
+
 
 # ❤️ Support My Work
 
