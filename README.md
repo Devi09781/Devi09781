@@ -350,8 +350,6 @@ Open To:
 - LangChain
 - ChromaDB
 - Groq API
-- Hugging Face
-
 ---
 
 ## 🗄 Database
@@ -417,66 +415,9 @@ Open To:
 
 
 
-# 🚀 Featured Projects
 
-<p align="center">
-<i>Some of my favorite AI, Machine Learning, and Full Stack projects.</i>
-</p>
 
----
 
-<details open>
-<summary><h2>🤖 AI Cold Email Generator</h2></summary>
-
-### 📌 Overview
-
-An intelligent application that generates personalized cold emails using Large Language Models.
-
-### ✨ Features
-
-- 🤖 AI Generated Emails
-- ⚡ LangChain Integration
-- 🧠 Llama 3
-- 📚 ChromaDB Vector Database
-- 🎯 Prompt Engineering
-- 💻 Streamlit Interface
-
-### 🛠 Tech Stack
-
-```
-Python
-LangChain
-Llama 3
-ChromaDB
-Streamlit
-Groq API
-```
-
-### Skills Gained
-
-- Prompt Engineering
-- Retrieval Augmented Generation (RAG)
-- Vector Databases
-- LLM Application Development
-
-</details>
-
----
-
-<details>
-<summary><h2>📰 Fake News Detection System</h2></summary>
-
-### 📌 Overview
-
-Machine Learning model that predicts whether a news article is fake or genuine.
-
-### Features
-
-- News Classification
-- Text Cleaning
-- NLP Pipeline
-- TF-IDF Vectorization
-- Logistic Regression
 
 ### Technologies
 
