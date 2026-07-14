@@ -592,12 +592,6 @@ Open To:
 
 </div>
 
-
-<!-- ====================================================== -->
-<!--              PREMIUM GITHUB PROFILE README             -->
-<!--                     PART 4                             -->
-<!-- ====================================================== -->
-
 # 📈 GitHub Contribution Calendar
 
 <div align="center">
