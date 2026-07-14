@@ -754,12 +754,3 @@ If you like my projects,
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:4B0082,50:6A5ACD,100:8A2BE2"/>
-
-</div>
-
-
-
