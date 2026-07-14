@@ -386,18 +386,6 @@ Open To:
 
 </p>
 
----
-
-# 📊 AI & ML Expertise
-
-| Domain | Skills | Level |
-|---------|--------|--------|
-| Machine Learning | Classification, Regression, Clustering | ⭐⭐⭐⭐☆ |
-| Deep Learning | ANN, CNN, TensorFlow, Keras | ⭐⭐⭐⭐☆ |
-| NLP | Fake News Detection, Sentiment Analysis | ⭐⭐⭐⭐⭐ |
-| Generative AI | LangChain, LLMs, Prompt Engineering | ⭐⭐⭐⭐☆ |
-| Data Analysis | Pandas, NumPy, Visualization | ⭐⭐⭐⭐☆ |
-| Full Stack AI Apps | React + Django + ML | ⭐⭐⭐⭐☆ |
 
 ---
 
