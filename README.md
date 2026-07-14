@@ -584,14 +584,6 @@ Open To:
 
 ---
 
-<div align="center">
-
-## ⭐ If you like my work, consider giving a ⭐ to my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:4B0082&height=150&section=footer"/>
-
-</div>
-
 # 📈 GitHub Contribution Calendar
 
 <div align="center">
