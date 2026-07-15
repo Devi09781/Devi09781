@@ -175,11 +175,11 @@ open_to:
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Devi09781&style=for-the-badge&color=blueviolet)
 
-![](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge)
+![](https://img.shields.io/github/followers/Devi09781?logo=github&style=for-the-badge)
 
-![](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge)
+![](https://img.shields.io/github/stars/Devi09781?affiliations=OWNER&style=for-the-badge)
 
 </div>
 
