@@ -268,9 +268,9 @@ Open To:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=react"  alt = "React"/>
 
-<img src="https://skillicons.dev/icons?i=nextjs"/>
+<img src="https://skillicons.dev/icons?i=nextjs" alt = "Next.js"/>
 
 <img src="https://skillicons.dev/icons?i=tailwind"/>
 
