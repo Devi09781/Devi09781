@@ -81,39 +81,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 ![](https://github-readme-stats.shion.dev/api?username=Devi09781&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-
-
-
-
-## Tech Stack
-
-**Languages:** Python, Java, JavaScript, TypeScript, SQL
-
-**Frontend:** HTML, CSS, Tailwind CSS, React, Next.js
-
-**Backend:** Node.js, Express.js, Django
-
-**Databases:** MongoDB, PostgreSQL, Supabase
-
-**AI/ML:** Scikit-learn, TensorFlow, Keras, NLTK, Pandas, NumPy
-
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Advanced | Classification, Regression |
-| NLP | Advanced | Fake News Detection, Sentiment Analysis |
-| Deep Learning | Intermediate | TensorFlow/Keras |
-| Generative AI | Intermediate | LangChain, Llama, ChromaDB |
-
----
-
-
-
----
-
 ## Certifications
 - Microsoft Azure AI Fundamentals
 - AWS Cloud Practitioner
