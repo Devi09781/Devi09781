@@ -183,27 +183,8 @@ Open To:
 
 ---
 
-# 🌐 Connect With Me
 
-<div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
 
 ---
 
@@ -437,9 +418,6 @@ Open To:
 # 📊 GitHub Analytics
 
 
-
-
-
 <div align="center">
 
 ## 🔥 GitHub Streak
@@ -449,8 +427,6 @@ Open To:
 </div>
 
 ---
-
-
 ---
 
 <div align="center">
@@ -478,14 +454,6 @@ Open To:
 </div>
 
 ---
-
-# 💡 Quote of the Day
-
-<div align="center">
-
-> **"Success is built one commit at a time."**
-
-</div>
 
 ---
 
@@ -627,11 +595,11 @@ Open To:
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jettadevi289@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Devi09781">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
