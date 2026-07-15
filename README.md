@@ -81,30 +81,9 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 ![](https://github-readme-stats.shion.dev/api?username=Devi09781&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-### Daily Inspiration
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-[![](https://komarev.com/ghpvc/?username=Devi09781&icon=1&color=0)](https://visitcount.itsvg.in)
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Devi%20Jetta&fontSize=50&fontColor=ffffff"/>
-</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Python+%7C+React+%7C+Next.js;Always+Learning"/>
-</p>
-
-## About Me
-- 🎓 B.Tech CSE (AI & ML)
-- 💻 AI, ML, Full Stack Development
-- ☁️ Azure AI Fundamentals, AWS Cloud Practitioner
-- 🌱 Currently learning GenAI, Cloud & System Design
-
----
-
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/80c6cbf1-c21f-4d3d-a332-a121d92975fe" />
 
 ## Tech Stack
 
