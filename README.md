@@ -512,24 +512,6 @@ Open To:
 
 ---
 
-# 📅 Current Learning Roadmap
-
-```yaml
-2026 Goals
-
-
-✔ Generative AI
-
-✔ LangGraph
-
-✔ Agentic AI
-
-✔ MLOps
-
-✔ Open Source Contributions
-```
-
-
 # 💡 Quote of the Day
 
 <div align="center">
