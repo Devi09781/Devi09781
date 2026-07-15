@@ -469,15 +469,8 @@ Open To:
 
 # 📊 GitHub Analytics
 
-<div align="center">
 
-## GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devi09781&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devi09781&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 
 <div align="center">
