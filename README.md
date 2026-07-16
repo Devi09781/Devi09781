@@ -81,44 +81,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 ![](https://github-readme-stats.shion.dev/api?username=Devi09781&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-## Certifications
-- Microsoft Azure AI Fundamentals
-- AWS Cloud Practitioner
-- Cisco Python Essentials
-- Oracle SQL
-- NPTEL
-- Qualcomm AI Upskilling
-
----
-## Current Focus
-
-```yaml
-learning:
-  - Generative AI
-  - Cloud Computing
-building:
-  - AI Applications
-exploring:
-  - System Design
-open_to:
-  - Internships
-  - Full-time Opportunities
-```
-
-## Connect
-
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Portfolio: https://YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
-
-<p align="center">
-<i>"Build. Learn. Share. Repeat."</i>
-</p>
-
-
-
-
-
 
 <div align="center">
 
