@@ -212,8 +212,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 
 
-
-
 # 📈 Technical Skills Acquired
 
 | Category | Skills |
@@ -492,7 +490,6 @@ Open To:
 
 </div>
 ---
-
 
 # ❤️ Support My Work
 
