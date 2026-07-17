@@ -268,7 +268,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 | ☁️ Microsoft Azure AI Fundamentals | Microsoft | ✅ Completed |
 | ☁️ AWS Cloud Practitioner | Amazon Web Services | ✅ Completed |
 | 🐍 Python Essentials | Cisco Networking Academy | ✅ Completed |
-| 🗄 Oracle SQL | Oracle | ✅ Completed |
 | 🤖 AI Upskilling Program | Qualcomm | ✅ Completed |
 | 💻 Responsive Web Design | freeCodeCamp | ✅ Completed |
 | 🎯 Prompt Engineering | Simplilearn | ✅ Completed |
