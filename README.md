@@ -261,7 +261,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 # 🏆 Certifications
 
-<div align="center">
+<div align="left">
 
 | Certification | Organization | Status |
 |---------------|--------------|--------|
