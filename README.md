@@ -279,26 +279,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 ---
 
-# 📜 Professional Highlights
-
-```text
-🎓 B.Tech - Computer Science Engineering (AI & ML)
-
-💻 Full Stack Developer
-
-🤖 AI & Machine Learning Enthusiast
-
-☁️ Cloud Computing Learner
-
-🚀 Generative AI Explorer
-
-📚 Continuous Learner
-
-🌟 Passionate about building intelligent applications
-```
-
----
-
 # 📊 GitHub Analytics
 
 
