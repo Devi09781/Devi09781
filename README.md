@@ -132,19 +132,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 </p>
 
 ---
-
-## 🧠 Artificial Intelligence & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://skillicons.dev/icons?i=sklearn"/>
-
 </p>
 
 ### Libraries
