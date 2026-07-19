@@ -431,6 +431,10 @@ Open To:
   ✔ Backend Developer
   ✔ Frontend Developer
   ✔ Internship Opportunities
+Open for Remote Internships
+
+
+
 ```
 
 # 📬 Let's Connect
