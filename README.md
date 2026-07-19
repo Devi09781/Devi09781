@@ -401,7 +401,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 | 🌐 Frontend | React, Next.js, Tailwind CSS |
 | ⚙ Backend | Node.js, Express.js, Django |
 | 🗄 Databases | MongoDB, PostgreSQL, Supabase |
-| ☁ Cloud | Azure, AWS |
+| ☁ Cloud |  AWS |
 | 🔧 Tools | Git, GitHub, VS Code, Postman |
 
 </div>
