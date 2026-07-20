@@ -13,7 +13,7 @@
 
 # 👋 Hi there , I'm Devi Jetta
 
-### 🚀 AI & Machine Learning Engineer | Full Stack Developer | Cloud Enthusiast
+### AI & Machine Learning Engineer | Full Stack Developer | Cloud Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;Python+Developer;React+%7C+Next.js+Developer;Cloud+Computing+Enthusiast;Always+Learning+New+Technologies;Open+Source+Learner;Future+Software+Engineer"/>
 
