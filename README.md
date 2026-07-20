@@ -300,16 +300,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 ---
 
-# 📈 GitHub Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/8A2BE2/Devi09781" alt="GitHub Contribution Chart"/>
-
-</div>
-
----
-
 # 🚀 Development Workflow
 
 ```text
