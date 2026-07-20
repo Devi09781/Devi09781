@@ -155,7 +155,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 <img src="https://skillicons.dev/icons?i=supabase"/>
 
 </p>
-
 ---
 
 ## ☁ Cloud & DevOps
@@ -173,8 +172,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
 
 </p>
 ---
