@@ -161,7 +161,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 </p>
 ---
-
 # 🛠 Development Environment
 
 | Category | Tools |
@@ -172,7 +171,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 | Deployment | Vercel, Render |
 | Database | MongoDB Atlas, PostgreSQL, Supabase |
 | Design | Figma, Canva |
-
 
 
 # 📈 Technical Skills Acquired
