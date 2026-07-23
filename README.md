@@ -326,7 +326,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 # 📚 Currently Exploring
 
-<div align="center">
+<div align="left">
 
 | AI | Full Stack | Cloud |
 |:--:|:----------:|:-----:|
