@@ -80,27 +80,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 ---
 
-## 👨‍💻 Programming Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=typescript"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
 
 ## 🎨 Frontend Development
 
