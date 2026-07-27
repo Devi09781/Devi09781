@@ -85,21 +85,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 </p>
 
 ---
-
-### 🧠 Generative AI
-![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00C853?style=for-the-badge&logo=openai&logoColor=white)
-
-### ☁️ Deployment
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Devi09781&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
----
-
-
-
 ## ⚙ Backend Development
 
 <p>
@@ -115,7 +100,20 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 </p>
 
 ---
-</p>
+
+### 🧠 Generative AI
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00C853?style=for-the-badge&logo=openai&logoColor=white)
+
+### ☁️ Deployment
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Devi09781&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+---
+
+
 
 ### Libraries
 
