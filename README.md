@@ -32,13 +32,34 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/80c6cbf1-c21f-4d3d-a332-a121d92975fe" />
 
 ---
-
 ## 🛠️ Tech Arsenal
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=typescript"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
 
 ### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
