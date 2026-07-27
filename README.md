@@ -39,7 +39,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 <p>
 
 <img src="https://skillicons.dev/icons?i=python"/>
