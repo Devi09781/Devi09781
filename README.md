@@ -68,6 +68,24 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+## 🎨 Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"  alt = "React"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs" alt = "Next.js"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+</p>
+
+---
+
 ### 🧠 Generative AI
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00C853?style=for-the-badge&logo=openai&logoColor=white)
