@@ -100,6 +100,24 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 </p>
 
 ---
+## ☁ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=azure"/>
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
+
+<img src="https://skillicons.dev/icons?i=netlify"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
+---
 
 ### 🧠 Generative AI
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
@@ -143,24 +161,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 </p>
 ---
 
-## ☁ Cloud & DevOps
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=azure"/>
-
-<img src="https://skillicons.dev/icons?i=vercel"/>
-
-<img src="https://skillicons.dev/icons?i=netlify"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</p>
----
 # 🛠 Development Environment
 
 | Category | Tools |
