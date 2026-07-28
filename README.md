@@ -115,6 +115,19 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 </p>
 ---
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=supabase"/>
+
+</p>
+---
+
 
 ### 🧠 Generative AI
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
