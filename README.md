@@ -156,19 +156,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 - Groq API
 ---
 
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=supabase"/>
-
-</p>
----
-
 
 # 🛠 Development Environment
 
