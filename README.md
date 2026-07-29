@@ -114,7 +114,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 <img src="https://skillicons.dev/icons?i=github"/>
 
 </p>
----
 
 ## 🗄 Database
 
