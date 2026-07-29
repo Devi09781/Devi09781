@@ -128,8 +128,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 </p>
 
-
-
 ### 🧠 Generative AI
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00C853?style=for-the-badge&logo=openai&logoColor=white)
