@@ -68,7 +68,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 ## 🎨 Frontend Development
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react"  alt = "React"/>
 
 <img src="https://skillicons.dev/icons?i=nextjs" alt = "Next.js"/>
