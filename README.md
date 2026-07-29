@@ -259,7 +259,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/u/Devi_Jetta/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
 
