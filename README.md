@@ -188,7 +188,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 - ✅ Continuous Open Source Learner
 
 ---
-
 # 🎯 Current Goals
 
 ```text
