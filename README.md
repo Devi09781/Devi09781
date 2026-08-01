@@ -7,7 +7,6 @@
 ![](https://komarev.com/ghpvc/?username=Devi09781&style=for-the-badge&color=blueviolet) ![](https://img.shields.io/github/followers/Devi09781?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/Devi09781?affiliations=OWNER&style=for-the-badge)
 </div>
 </div>
-
 <div align="center">
 
 # 👋 Hi there , I'm Devi Jetta
