@@ -239,7 +239,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devi09781&theme=tokyo-night&hide_border=true"/>
 
 </div>
----
 # 💻 Coding Profiles
 
 <div align="center">
