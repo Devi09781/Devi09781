@@ -170,9 +170,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 | Databases | MongoDB, PostgreSQL, Supabase |
 | Cloud | AWS, Azure |
 | Version Control | Git, GitHub |
-
 ---
-
 # 🏆 Major Achievements
 
 - ✅ Built Multiple AI Projects
