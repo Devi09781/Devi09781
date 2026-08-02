@@ -1,6 +1,5 @@
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,50:6A5ACD,100:8A2BE2&text=Devi%20Jetta&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 <div align="center">
 
