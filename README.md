@@ -180,7 +180,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 - ✅ Practicing Data Structures & Algorithms
 - ✅ Exploring Generative AI & LLMs
 - ✅ Continuous Open Source Learner
-
 ---
 # 🎯 Current Goals
 
