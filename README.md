@@ -26,7 +26,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 - Interested in AI Agents and AI automation
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/80c6cbf1-c21f-4d3d-a332-a121d92975fe" />
----
+
 ## 🛠️ Tech Arsenal
 
 ### 💻 Programming Languages
