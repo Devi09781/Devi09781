@@ -51,7 +51,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
-
 ---
 ### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
