@@ -191,8 +191,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 ✔ Build Production-Level AI Applications
 
-✔ Contribute to Open Source
-
 ✔ Secure a Software Engineer / AI Engineer Role
 
 ✔ Continue Learning Every Day
