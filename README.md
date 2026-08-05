@@ -283,7 +283,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 > **Consistency beats motivation.**
 
 ---
-
 # 📚 Currently Exploring
 
 <div align="left">
@@ -296,7 +295,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 | 🤖 AI Agents | 📡 APIs | 🐳 Docker (Learning) |
 
 </div>
-
 ---
 
 # 🎯 2026 Goals
