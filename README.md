@@ -395,5 +395,4 @@ If you like my projects,
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Amazing+Things+Together!;Keep+Learning+Keep+Growing!"/>
 
 </div>
-
 ---
