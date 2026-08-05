@@ -355,7 +355,6 @@ Open To:
   ✔ Internship Opportunities
 Open for Remote Internships
 
-
 ```
 
 # 📬 Let's Connect
