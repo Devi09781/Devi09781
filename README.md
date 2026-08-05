@@ -211,7 +211,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 | 🎓 Tata GenAI Data Analytics Simulation | Forage | ✅ Completed |
 
 </div>
----
 # 📊 GitHub Analytics
 
 <div align="center">
