@@ -146,6 +146,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 - ChromaDB
 - Groq API
 ---
+
 # 🛠 Development Environment
 
 | Category | Tools |
