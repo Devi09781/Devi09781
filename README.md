@@ -245,8 +245,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 ---
 
----
-
 # 💼 Open for Opportunities
 
 ```yaml
