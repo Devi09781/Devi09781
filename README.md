@@ -198,7 +198,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 ```
 # 🏆 Certifications
 <div align="left">
-
+  
 | Certification | Organization | Status |
 |---------------|--------------|--------|
 | ☁️ Microsoft Azure AI Fundamentals | Microsoft | ✅ Completed |
