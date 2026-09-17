@@ -208,7 +208,6 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 | 🤖 AI Upskilling Program | Qualcomm | ✅ Completed |
 | 💻 Responsive Web Design | freeCodeCamp | ✅ Completed |
 | 🎯 Prompt Engineering | Simplilearn | ✅ Completed |
-| 🌐 Web Design | Udemy | ✅ Completed |
 | 📡 API Fundamentals | Postman | ✅ Completed |
 | 🎓 Tata GenAI Data Analytics Simulation | Forage | ✅ Completed |
 
