@@ -1,6 +1,7 @@
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,50:6A5ACD,100:8A2BE2&text=Devi%20Jetta&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?
+type=waving&height=260&color=0:4B0082,50:6A5ACD,100:8A2BE2&text=Devi%20Jetta&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Devi09781&style=for-the-badge&color=blueviolet) ![](https://img.shields.io/github/followers/Devi09781?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/Devi09781?affiliations=OWNER&style=for-the-badge)
