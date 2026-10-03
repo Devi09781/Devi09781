@@ -95,7 +95,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 </p>
 
 ---
-## ☁ Cloud & DevOps
+## ☁ Cloud  & DevOps
 
 <p>
 
