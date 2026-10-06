@@ -22,8 +22,8 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 -  Building scalable web applications
 -  Exploring Machine Learning & GenAI
 -  Learning React, Django & Cloud
--  Solving real-world problems through technology
--  Always learning something new
+- Solving real-world problems through technology
+- Always learning something new
 - Passionate about building career in IT Industry
 - Interested in AI Agents and AI Automation
 
