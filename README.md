@@ -11,7 +11,7 @@ type=waving&height=260&color=0:4B0082,50:6A5ACD,100:8A2BE2&text=Devi%20Jetta&fon
 
 # 👋 Hi there , I'm Devi Jetta 
 
-### AI & Machine Learning Engineer | Full Stack Developer | Cloud Enthusiast
+### AI & Machine Learning Engineer | MERN Stack Developer | Cloud Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?
 font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;Python+Developer;React+%7C+Developer;Cloud+Computing+Enthusiast;Always+Learning+New+Technologies;Open+Source+Learner;Future+Software+Engineer"/>
