@@ -32,7 +32,7 @@ I'm an aspiring **Software Developer** passionate about Full-Stack Development, 
 
 ## 🛠️ Tech Arsenal
 
-### 💻 Programming languages
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
