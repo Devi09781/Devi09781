@@ -9,7 +9,7 @@ type=waving&height=260&color=0:4B0082,50:6A5ACD,100:8A2BE2&text=Devi%20Jetta&fon
 </div>
 <div align="center">
 
-# 👋 Hi there , I'm Devi Jetta 
+# 👋 Hi there , I'm Devi Jetta
 
 ### AI & Machine Learning Engineer | MERN Stack Developer | Cloud Enthusiast
 
